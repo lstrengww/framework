@@ -1,0 +1,17 @@
+{
+  "name": "framework",
+  "description": "The essential supporting JS/CSS libraries for Framework",
+  "main": "",
+  "authors": [
+    "Laurel Streng"
+  ],
+  "license": "NONE",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {}
+}
