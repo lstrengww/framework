@@ -1,0 +1,21 @@
+{
+  "name": "wwframework",
+  "description": "Starter LibSass for wwframework",
+  "main": "",
+  "authors": [
+    "Laurel Streng"
+  ],
+  "license": "NONE",
+  "homepage": "https://github.com/lstrengww/framework",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
