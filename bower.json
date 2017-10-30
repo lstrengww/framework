@@ -1,17 +1,21 @@
 {
-  "name": "framework",
-  "description": "The essential supporting JS/CSS libraries for Framework",
+  "name": "wwframework",
+  "description": "Starter LibSass for wwframework",
   "main": "",
   "authors": [
     "Laurel Streng"
   ],
   "license": "NONE",
-  "homepage": "",
+  "homepage": "https://github.com/lstrengww/framework",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components"
+    "bower_components",
+    "test",
+    "tests"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
